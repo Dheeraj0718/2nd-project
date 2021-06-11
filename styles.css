@@ -1,0 +1,54 @@
+body {
+  font-family: cursive;
+  margin: 0;
+  padding: 0;
+}
+#header-nav {
+  background-color: #777;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+  border-top: 4px solid black;
+  border-bottom: 4px solid black;
+  padding-left: 35px;
+}
+#header-nav a {
+  text-decoration: none;
+  font-size: 2em;
+  color: #000;
+}
+#menu-categories-title {
+  text-align: center;
+  font-size: 2em;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+#chicken {
+  background-color: #777;
+  margin: 30px;
+  padding: 0 20px 5px 20px;
+}
+#chicken h3 {
+  text-align: center;
+  font-size: 1.4em;
+}
+#chicken p {
+
+}
+@media (min-width: 1200px) {
+
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  
+}
+@media (max-width: 767px) {
+ #header-nav {
+  padding-left: 70px;
+ }
+ #chicken {
+  margin-left: 100px;
+  margin-right: 100px;
+ }
+}
