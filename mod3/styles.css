@@ -88,7 +88,7 @@ body {
   margin-top: 120px;
  }
  #nav-list {
-  background-color: #fff;
+  background-color: #777;
 }
 #nav-list a {
   color: #000;
@@ -96,7 +96,7 @@ body {
   border: 1px solid black;
 }
 #nav-list a:hover {
-  background: #777;
+  background: #fff;
 }
 #nav-list a span {
   font-size: 1.8em;
