@@ -11,7 +11,6 @@ body {
   border-top: 4px solid black;
   border-bottom: 4px solid black;
   border-radius: 0;
-  height: 80px;
 }
 .navbar-brand {
   padding-top: 0px;
@@ -55,8 +54,18 @@ body {
 }
 #chicken, #beef, #sushi {
   background-color: #777;
+  color: #777;
   padding: 1px 20px 5px 20px;
   margin: 30px 0;
+}
+#nav-list a {
+  text-align: center;
+  cursor: context-menu;
+}
+#nav-list a:hover {
+  background: #777;
+  color: #777;
+  cursor: context-menu;
 }
 #main-content h3 {
   text-align: center;
@@ -85,10 +94,11 @@ body {
   margin-right: 100px;
  }
  #menu-categories-title {
-  margin-top: 120px;
+  margin-top: 30px;
  }
  #nav-list {
   background-color: #777;
+  margin: 0 -2.15%;
 }
 #nav-list a {
   color: #000;
