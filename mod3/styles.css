@@ -24,27 +24,6 @@ body {
   font-size: 2em;
   color: #000;
 }
-/*#nav-list {
-  background-color: #fff;
-}
-#nav-list a {
-  color: #000;
-  text-align: center;
-  border: 1px solid black;
-}
-#nav-list a:hover {
-  background: #777;
-}
-#nav-list a span {
-  font-size: 1.8em;
-}
-.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-  border: 2px solid black;
-}
-.navbar-header button.navbar-toggle {
-  clear: both;
-  margin-top: -30px;
-}*/
 #menu-categories-title {
   font-size: 2em;
   color: #000;
